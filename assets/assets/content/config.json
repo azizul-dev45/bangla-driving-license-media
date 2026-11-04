@@ -1,0 +1,24 @@
+{
+  "version": "2026.1",
+  "verified": false,
+  "web_url": "https://bangla-driving-license.web.app",
+  "content_base_url": "https://azizul-dev45.github.io/bangla-driving-license-media/content-update/",
+  "video_base_url": "https://github.com/azizul-dev45/bangla-driving-license-media/releases/download/videos/",
+  "verify_note": "Placeholder values. Check every number against 도로교통공단 before release.",
+  "mock_test": {
+    "question_count": 40,
+    "time_limit_minutes": 40,
+    "max_score": 100,
+    "pass_mark": {
+      "class1_regular": 70,
+      "class2_regular": 60
+    },
+    "per_type": {
+      "sentence": 21,
+      "sign": 5,
+      "photo": 6,
+      "illustration": 7,
+      "video": 1
+    }
+  }
+}
