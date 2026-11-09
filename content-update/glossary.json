@@ -33,6 +33,19 @@
     { "en": "free running distance", "ko": "공주거리", "bn_simple": "ব্রেক চাপার আগের দূরত্ব (প্রতিক্রিয়ার দূরত্ব)", "bn_avoid": ["ফ্রি রানিং"] },
     { "en": "criminal fine", "ko": "벌금", "bn_simple": "আদালতের জরিমানা (벌금)", "bn_avoid": ["কোর্টের জরিমানা"] },
     { "en": "traffic penalty", "ko": "범칙금", "bn_simple": "পুলিশের জরিমানা (범칙금)", "bn_avoid": ["ট্রাফিক জরিমানা"] },
-    { "en": "administrative fine", "ko": "과태료", "bn_simple": "জরিমানা (과태료)", "bn_avoid": ["সরকারি জরিমানা", "প্রশাসনিক জরিমানা", "গাড়ির মালিকের জরিমানা"] }
+    { "en": "administrative fine", "ko": "과태료", "bn_simple": "জরিমানা (과태료)", "bn_avoid": ["সরকারি জরিমানা", "প্রশাসনিক জরিমানা", "গাড়ির মালিকের জরিমানা"] },
+    { "en": "motorized bicycle", "ko": "원동기장치자전거", "bn_simple": "মোটরবাইক", "bn_avoid": [] },
+    { "en": "brief stop", "ko": "정차", "bn_simple": "অল্প সময় থামা", "bn_avoid": [] },
+    { "en": "pedestrian-first road", "ko": "보행자 우선도로", "bn_simple": "পথচারী হাঁটে এমন রাস্তা", "bn_avoid": [] },
+    { "en": "automobile road", "ko": "자동차 전용도로", "bn_simple": "শুধু গাড়ির রাস্তা", "bn_avoid": [] },
+    { "en": "roundabout", "ko": "회전교차로", "bn_simple": "গোল মোড় (রাউন্ডঅ্যাবাউট)", "bn_avoid": [] },
+    { "en": "unprotected left turn", "ko": "비보호 좌회전", "bn_simple": "নিজ দায়িত্বে বামে ঘোরা", "bn_avoid": [] },
+    { "en": "yield line", "ko": "양보선", "bn_simple": "ছাড় দেওয়ার লাইন", "bn_avoid": [] },
+    { "en": "mobility scooter", "ko": "전동보장구", "bn_simple": "ইলেকট্রিক হুইলচেয়ার", "bn_avoid": [] },
+    { "en": "detention", "ko": "구류", "bn_simple": "কয়েক দিনের আটক", "bn_avoid": [] },
+    { "en": "minor criminal fine", "ko": "과료", "bn_simple": "ছোট জরিমানা", "bn_avoid": [] },
+    { "en": "disappearance (two headlights hide a person in the middle)", "ko": "증발현상", "bn_simple": "লাইটের মাঝে মানুষ উধাও হওয়া", "bn_avoid": ["বাষ্পীভবন"] },
+    { "en": "aquaplaning", "ko": "수막현상", "bn_simple": "পানিতে চাকা পিছলানো", "bn_avoid": ["পানির স্তর", "হাইড্রোপ্লেনিং"] },
+    { "en": "hydroplaning", "ko": "하이드로플레이닝", "bn_simple": "পানিতে চাকা পিছলানো", "bn_avoid": [] }
   ]
 }
