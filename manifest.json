@@ -1,12 +1,12 @@
 {
-    "name": "কোরিয়ান ড্রাইভিং লাইসেন্স",
-    "short_name": "ড্রাইভিং লাইসেন্স",
+    "name": "License Sohoj",
+    "short_name": "License Sohoj",
     "lang": "bn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#1565C0",
-    "description": "কোরিয়ান ড্রাইভিং লাইসেন্সের লিখিত পরীক্ষা, বাংলায়",
+    "description": "Korean driving license written test in Bangla and Nepali · বাংলা · नेपाली",
     "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
